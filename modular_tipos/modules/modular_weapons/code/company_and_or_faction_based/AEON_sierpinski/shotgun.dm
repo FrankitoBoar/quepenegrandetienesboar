@@ -33,8 +33,8 @@
 	icon = 'modular_tipos/modules/modular_weapons/icons/obj/company_and_or_faction_based/aeon_sierpinski/sig_ammo.dmi'
 	icon_state = "12g_box"
 	multiple_sprites = AMMO_BOX_FULL_EMPTY
-	ammo_type = /obj/item/ammo_casing/shotgun/buckshot
-	max_ammo = 15
+	ammo_type = /obj/item/ammo_casing/shotgun/magnum
+	max_ammo = 20
 
 // EIN-12 Flechette Shotgun Magazine
 
