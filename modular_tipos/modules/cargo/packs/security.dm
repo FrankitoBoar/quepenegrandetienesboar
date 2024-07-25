@@ -38,7 +38,7 @@
 	crate_type = /obj/structure/closet/crate/secure/sierpinski
 	contains = list(/obj/item/sign/flag/eusan,
 					/obj/item/storage/toolbox/guncase/skyrat/pistol/trappiste_small_case/empty = 3,
-    				/obj/item/storage/toolbox/guncase/skyrat/carwo_large_case/empty = 2,
+    				/obj/item/storage/toolbox/guncase/skyrat/carwo_large_case/empty,
     				/obj/item/clothing/suit/armor/vest/sierpinski = 2,
                     /obj/item/gun/ballistic/revolver/sierpinski = 2,
                     /obj/item/gun/ballistic/rifle/sierpinski,
